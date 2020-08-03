@@ -11,6 +11,6 @@ I seek the positive impact of the world through technology.
 <li>Node.js
 <li>React.js
 <li>Database
-<li>PostgreSQL
+<li>SQL
   </ul>
 

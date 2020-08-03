@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Tatiana Fischer! 👩
+I'm fullstack engineer stundet, 🌎
+I seek the positive impact of the world through technology.
 
-<!--
-**TatianaFischer/TatianaFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:tongue:  Languages and Frameworks🚀
+<ul>
+<li>HTML
+<li>CSS
+<li>Javascript
+<li>Typescript
+<li>Node.js
+<li>React.js
+<li>Database
+<li>PostgreSQL
+  </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

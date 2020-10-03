@@ -10,7 +10,6 @@ I seek the positive impact of the world through technology.
 <li>Typescript
 <li>Node.js
 <li>React.js
-<li>Database
 <li>MySQL
   </ul>
 

@@ -4,7 +4,7 @@
 
 
 
-  >>><p align="center">    HTML | CSS | Javascript <p>
+  >>>>>>>>>>>>>>>>>>><p align="center">    HTML | CSS | Javascript <p>
   >>><p align="center"> React.js | Typescript | Node.js | MySQL <p>
 
 

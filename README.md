@@ -5,6 +5,6 @@
 
 
                                                         HTML | CSS | Javascript
-                                                 Typescript | Node.js | React.js | MySQL
+                                                  React.js | Typescript | Node.js | MySQL
 
 

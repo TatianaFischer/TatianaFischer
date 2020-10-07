@@ -5,7 +5,7 @@
 <p align="center"> 👩‍🔧👩‍💻<p>
 
 
-<p align="center">    HTML | CSS | Javascript <p>
-<p align="center"> React.js | Typescript | Node.js | MySQL <p>
+<i> <p align="center">    HTML | CSS | Javascript <p> </i>
+<i> <p align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
 
 

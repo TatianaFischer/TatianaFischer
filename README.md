@@ -4,7 +4,7 @@
 
 
 
-                                                               HTML | CSS | Javascript
-                                                        Typescript | Node.js | React.js | MySQL
+                                                            HTML | CSS | Javascript
+                                                     Typescript | Node.js | React.js | MySQL
 
 

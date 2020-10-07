@@ -3,8 +3,7 @@
 <h4 align="center"> I seek the positive impact of the world through technology.🌎 </h4>
 
 
-
-  >>>>>>>>>>>>>>>>>>><p align="center">    HTML | CSS | Javascript <p>
-  >>><p align="center"> React.js | Typescript | Node.js | MySQL <p>
+<p align="center">    HTML | CSS | Javascript <p>
+<p align="center"> React.js | Typescript | Node.js | MySQL <p>
 
 

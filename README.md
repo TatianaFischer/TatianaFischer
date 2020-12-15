@@ -22,7 +22,7 @@
   ![TatianaFischer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaFischer&show_icons=true&theme=default)
 
 
-  <summary>Main Languages</summary>
+ 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaFischer&layout=)
 </details>

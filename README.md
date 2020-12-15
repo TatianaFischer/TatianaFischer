@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there , I'm Tatiana Fischer! 👩👋 </h1>
+<h1 align="center"> Hi there , I'm Tatiana Fischer! 👋💙 </h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/TatianaFischer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatianaffischer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tatiana.fischer@acad.pucrs.br)
 
-<h4 align="center"> I'm Web Developer Student, 🚀 </h4>
+<h3 align="center"> I'm Web Developer Student, 🚀 </h3>
 <h4 align="center"> I seek the positive impact of the world through technology.🌎 </h4>
 <br/>
 

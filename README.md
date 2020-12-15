@@ -6,18 +6,15 @@
 
 <h3 align="center"> I'm Web Developer Student, 🚀 </h3>
 <h4 align="center"> I seek the positive impact of the world through technology.🌎 </h4>
-<br/>
 
-
-
+ 
+ <br/>
+ 
 <i> <p align="center">    HTML | CSS | Javascript <p> </i>
-<i> <p align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
-
-
-
-
+<i> <p align="center"> React.js | Typescript | Node.js | MySQL <p> </i><br/><p align="center">Now I'm working at [DX.CO](http://marketing.4all.com/dxco), a digital transformation startup based in the [Hub 4all](https://4all.com/)</p>
+<br/>
 <details>
-  <summary><b> GitHub Stats and Main Languages</b></summary>
+  <summary><b>✨ GitHub Stats and Main Languages</b></summary>
 
   ![TatianaFischer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaFischer&show_icons=true&theme=default)
 

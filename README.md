@@ -12,9 +12,11 @@
  
 <i> <h3 align="center">    HTML | CSS | Javascript <p> </h3>
  <h3 align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
+
+ <br/><h4>JOB: </br>I'm working on a React.js project (PWA/whitelabel) at [DX.CO](http://marketing.4all.com/dxco);</h4>
+ <br/><h4>DEGREES: </br>I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/) and I'm going to study the [Rocketseat](https://rocketseat.com.br/) React.js course;</h4>
+  <br/><h4>COURSES: </br> I'm going to study React.js at [Rocketseat](https://rocketseat.com.br/);</h4>
  
- <br/><h3 align="center">Now I'm working at [DX.CO](http://marketing.4all.com/dxco), a digital transformation startup in [Hub 4all](https://4all.com/)</h3>
- <p align="center">I'm worgin on a React.js project (PWA and whitelabel)</p>
 <br/>
 <details>
   <summary><b>✨ GitHub Stats and Main Languages</b></summary>

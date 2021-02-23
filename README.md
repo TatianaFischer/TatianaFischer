@@ -5,7 +5,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tatiana.fischer@acad.pucrs.br)
 
 <h2 align="center"> I'm Web Developer Student, 🚀 </h2>
-<h4 align="center"> I seek the positive impact of the world through technology.🌎 </h4>
+<p align="center"> I seek the positive impact of the world through technology.🌎 </p>
+<p align='center'> sustainability - social impact - innovation <p/>
 
  
  <br/>

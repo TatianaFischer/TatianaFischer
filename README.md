@@ -15,7 +15,7 @@
  
  <br/>
 <details align="center">
-  <summary ><b>✨ GitHub Stats and Main Languages</b></summary>
+  <summary >✨ GitHub Stats and Main Languages</summary>
 
  
  

@@ -14,7 +14,7 @@
  <h3 align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
 
  <br/><h4>JOB: </br>I'm front-end developer on a React.js project (PWA/whitelabel) at [DX.CO](http://marketing.4all.com/dxco);</h4>
- <br/><h4>DEGREES: </br>I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/) </h4>
+ <br/><h4>DEGREES: </br>I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/); </h4>
   <br/><h4>COURSES: </br> I'm going to study React.js at [Rocketseat](https://rocketseat.com.br/);</h4>
  
 <br/>

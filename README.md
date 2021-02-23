@@ -16,7 +16,7 @@
  <br/>
 <details align="center">
   <summary ><b>✨ GitHub Stats and Main Languages</b></summary>
-<i>
+
  
  
   ![TatianaFischer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatianaFischer&show_icons=true&theme=default)

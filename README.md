@@ -13,7 +13,8 @@
 <i> <h3 align="center">    HTML | CSS | Javascript <p> </h3>
  <h3 align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
  
- <br/><p align="center">Now I'm working at [DX.CO](http://marketing.4all.com/dxco), a digital transformation startup in [Hub 4all](https://4all.com/)</h3>
+ <br/><h3 align="center">Now I'm working at [DX.CO](http://marketing.4all.com/dxco), a digital transformation startup in [Hub 4all](https://4all.com/)</h3>
+ <p align="center">I'm worgin on a React.js project (PWA and whitelabel)</p>
 <br/>
 <details>
   <summary><b>✨ GitHub Stats and Main Languages</b></summary>

@@ -6,7 +6,6 @@
 
 <h2 align="center"> I'm Web Developer Student, 🚀 </h2>
 <p align="center"> I seek the positive impact of the world through technology.🌎 </p>
-<p align='center'> sustainability - social impact - innovation <p/>
 
  
  <br/>

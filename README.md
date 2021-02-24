@@ -27,9 +27,9 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatianaFischer&layout=)
 </details>
 
- <br/><h5 align="left">JOB: </br>I'm front-end developer on a React.js project (PWA/whitelabel) at [DX.CO](http://marketing.4all.com/dxco);</h5>
- <br/><h5 align="left">DEGREES: </br>I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/); </h5>
-  <br/><h5 align="left">COURSES: </br> I'm going to study React.js at [Rocketseat](https://rocketseat.com.br/);</h5>
+ ##### JOB: I'm front-end developer on a React.js project (PWA/whitelabel) at [DX.CO](http://marketing.4all.com/dxco);
+ ##### DEGREES: I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/); 
+ ##### COURSES:  I'm going to study React.js at [Rocketseat](https://rocketseat.com.br/);
  
 
 

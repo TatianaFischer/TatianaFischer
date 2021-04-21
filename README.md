@@ -11,7 +11,7 @@
  <br/>
  
 <i> <h3 align="center">    HTML | CSS | Javascript <p> </h3>
- <h3 align="center"> React.js | Typescript | Node.js | MySQL <p> </i>
+ <h3 align="center"> React.js | Typescript <p> </i>
  
  <br/>
 <details align="center">

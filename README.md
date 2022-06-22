@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tatianaffischer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tatiana.fischer@acad.pucrs.br)
 
-<h3 align="center"> I'm Web Developer Student, 🚀 </h3>
+<h3 align="center"> I'm Front-end Developer, 🚀 </h3>
 <p align="center"> I seek the positive impact of the world through technology.🌎 </p>
 
  

@@ -28,7 +28,7 @@
 </details>
 
  ##### <br/> <br/> JOB: I'm front-end developer on a React.js project at [Pulsus.mobi](https://pulsus.mobi/);
- ##### DEGREES: I'm currently studying Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/); 
+ ##### DEGREES: Front-End MBA at [IGTI](https://www.igti.com.br/cursos/mba-em-desenvolvimento-front-end/); 
  ##### COURSES:  I study every day about programming and technology. Mainly the front end ecosystem.
  
 
